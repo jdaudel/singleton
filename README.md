@@ -1,0 +1,2 @@
+# singleton
+C++ Singleton Framework
